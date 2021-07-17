@@ -2,11 +2,13 @@
 
 ## Contacts:
 
-- e-mail: rita.levkoy@gmail.com (preferably)
-- [Facebook](https://www.facebook.com/profile.php?id=100011403041388)
-- WhatsApp/Telegram: +37127162437
+- _e-mail:_ rita.levkoy@gmail.com (preferably)
+- _WhatsApp/Telegram:_ +37127162437
+- _[Facebook](https://www.facebook.com/profile.php?id=100011403041388)_
 
 ---
+
+## About me:
 
 I am a beginner Front-End Developer. I started my study path in 2020 in order to check my capabilities, and now I continue with an increasing interest in the profession.
 
@@ -28,7 +30,7 @@ I love learning a new one and I try to develop my skills in self-study.
 
 ## Code examples:
 
-[project_digital_landing](rish-fish.github.io/project_digital_landing/ "project_digital_landing")
+- [project_digital_landing](rish-fish.github.io/project_digital_landing/ "project_digital_landing")
 
 ## Development experience (courses and trainings):
 
