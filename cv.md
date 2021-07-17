@@ -26,27 +26,29 @@ I love learning a new one and I try to develop my skills in self-study.
 - Study JavaScript
 - Git и Github (git add/commit/push/pull/checkout/merge)
 
-  ## Code examples:
+## Code examples:
 
-  [project_digital_landing](rish-fish.github.io/project_digital_landing/ "project_digital_landing")
+[project_digital_landing](rish-fish.github.io/project_digital_landing/ "project_digital_landing")
 
-  ## Development experience (courses and trainings):
+## Development experience (courses and trainings):
 
 - GoITSchool, Weekly marathon on layout basics HTML/CSS
-- JavaGuru.lv, FrontEnd [project1](https://rish-fish.github.io/mood_landing/ "mood_landing")
-- IT INSIDERS, “Easy start in IT” - Adaptive layout and automation [project2](https://rish-fish.github.io/project_digital_landing/ "project_digital_landing"), [project3](https://rish-fish.github.io/project_charity/ "project_charity")
+- JavaGuru.lv, FrontEnd ([project1](https://rish-fish.github.io/mood_landing/ "mood_landing"))
+- IT INSIDERS, “Easy start in IT” - Adaptive layout and automation ([project2](https://rish-fish.github.io/project_digital_landing/ "project_digital_landing"), [project3](https://rish-fish.github.io/project_charity/ "project_charity"))
 
-  ## Education:
+## Education:
 
-* 2013
+- 2013
 
-  - Moscow State University for the Humanities named after M.A. Sholokhov, Moscow (Faculty of Fine and Visual Arts, Fine Arts)
+  Moscow State University for the Humanities named after M.A. Sholokhov, Moscow (Faculty of Fine and Visual Arts, Fine Arts)
 
-* 2006
+- 2006
 
-  - College of arts and crafts. K. Faberge No. 36
-    (Faculty of Hot Enamel, Enamel Painting Artist)
+  College of arts and crafts. K. Faberge No. 36
+  (Faculty of Hot Enamel, Enamel Painting Artist)
 
-  ## English: А2
+## English:
+
+- А2
 
 ---
