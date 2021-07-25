@@ -5,7 +5,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My CV</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
 </head>
 <body>
   <main class="cv">
@@ -14,19 +17,19 @@
         <div class="cv_my-photo"></div>
         <h2 class="cv_head">Contacts</h2>
         <ul>
-          <li class="cv_item"><a class="cv_link" href="mailto:rita.levkoy@gmail.com">rita.levkoy@gmail.com</a></li>
+          <li class="cv_item"><a class="cv_link" href="mailto:rita.levkoy@gmail.com">rita.levkoy<wbr>@gmail.com</a></li>
           <li class="cv_item"><a class="cv_link" href="https://www.facebook.com/profile.php?id=100011403041388">Facebook</a></li>
-          <li class="cv_item"><a class="cv_link" href="tel:+37127162437">+371 27 16 24 37</a><br>(WhatsApp/Telegram)</li>
+          <li class="cv_item"><a class="cv_link" href="tel:+37127162437">+371 27 16 24 37</a><br>(WhatsApp<wbr>/Telegram)</li>
         </ul>
         <h2 class="cv_head">Skills</h2>
         <ul>
-          <li class="cv_item">HTML5, CSS3, Flexbox layout, basic principles of UI/UX</li>
-          <li class="cv_item">Cross-browser, semantic and responsive layout</li>
-          <li class="cv_item">Used Gulp, preprocessor Sass</li>
+          <li class="cv_item">HTML5, CSS3, <br>Flexbox layout, <br>basic principles of UI/UX</li>
+          <li class="cv_item">Cross-browser, semantic and adaptive layout</li>
+          <li class="cv_item">Used Gulp, <br>preprocessor Sass</li>
           <li class="cv_item">Connecting the Swiper Js library</li>
           <li class="cv_item">Layout from Figma</li>
           <li class="cv_item">Study JavaScript</li>
-          <li class="cv_item">Git и Github (git add/commit/push/pull/checkout/merge)</li>
+          <li class="cv_item">Git и Github<br>(git add/commit/push<wbr>/pull/checkout/merge)</li>
         </ul>
         <h2 class="cv_head">Code examples</h2>
         <ul>
@@ -58,10 +61,10 @@
           <article class="cv_main-wrap">
             <h3 class="cv_main-head">Development experience<br>(courses and trainings)</h3>
             <ul>
-              <li class="cv_item">The previous course at <a class="cv_link" class="" href="https://community-z.com/communities/the-rolling-scopes">RS School</a> 2021Q1</li>
-              <li class="cv_item"><a class="cv_link" href="https://it-insiders.tech/">IT INSIDERS</a>, “Easy start in IT” - Adaptive layout and automation (<a title="project_digital_landing" href="https://rish-fish.github.io/project_digital_landing/">project 1</a>, <a title="project_charity" href="https://rish-fish.github.io/project_charity/">project 2</a>)</li>
-              <li class="cv_item"><a class="cv_link" href="https://javaguru.lv/">JavaGuru.lv</a>, FrontEnd (<a title="project_mood_landing" href="https://rish-fish.github.io/mood_landing/">project 1</a>)</li>
-              <li class="cv_item"><a class="cv_link" href="https://goit.ua/">GoITSchool</a>, Weekly marathon on layout basics HTML/CSS</li>
+              <li class="cv_item cv_item--right">The previous course at <a class="cv_link cv_link--right" href="https://community-z.com/communities/the-rolling-scopes">RS School</a> 2021Q1</li>
+              <li class="cv_item cv_item--right"><a class="cv_link cv_link--right" href="https://it-insiders.tech/">IT INSIDERS</a>, “Easy start in IT” - Adaptive layout and automation (<a class="cv_link cv_link--project" title="project_digital_landing" href="https://rish-fish.github.io/project_digital_landing/">project 1</a>, <a class="cv_link cv_link--project" title="project_charity" href="https://rish-fish.github.io/project_charity/">project 2</a>)</li>
+              <li class="cv_item cv_item--right"><a class="cv_link cv_link--right" href="https://javaguru.lv/">JavaGuru.lv</a>, FrontEnd (<a class="cv_link cv_link--project" title="project_mood_landing" href="https://rish-fish.github.io/mood_landing/">project 1</a>)</li>
+              <li class="cv_item cv_item--right"><a class="cv_link cv_link--right" href="https://goit.ua/">GoITSchool</a>, Weekly marathon on layout basics HTML/CSS</li>
             </ul>
           </article>
           <article class="cv_main-wrap">
@@ -87,11 +90,13 @@
           <div class="cv_footer-wrap">
             <a class="cv_link" href="https://rs.school/js/"><img class="cv_rs-logo" src="./images/rs_school_js.svg" alt="Logo RS School"></a>
             <div class="cv_footer-github">
-              <p class="cv_footer-desc">My Github</p>
-              <a class="cv_link" href="https://github.com/Rish-Fish"><img class="cv_hg-logo" src="./images/1200px-Octicons-mark-github.svg" alt="GitHub Logo"></a>
+              <a class="cv_footer-link" href="https://github.com/Rish-Fish">
+                <img class="cv_hg-logo" src="./images/1200px-Octicons-mark-github.svg" alt="GitHub Logo">
+                <span class="cv_footer-desc">My Github</span>
+              </a>
             </div>
           </div>
-          <p class="cv_footer-desc">2021</p>
+          <p class="cv_footer-date">2021</p>
         </footer>
       </section>
     </div>
