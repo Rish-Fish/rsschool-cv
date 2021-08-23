@@ -15,6 +15,10 @@ body {
 .cv_wrapper {
   display: flex;
   flex-direction: row;
+  box-shadow: 5px 9px 20px 0px rgba(0, 0, 0, 0.15);
+  max-width: 1000px;
+  min-width: 500px;
+  width: 100%;
 }
 
 /* Left Side */
@@ -25,7 +29,7 @@ body {
   border-radius: 8px 0 0 8px;
   width: 25%;
   background: #161e27;
-  color: #fff;
+  color: #f5f7fa;
   padding: 15px 25px 15px 25px;
 }
 .cv_my-photo {
@@ -34,7 +38,7 @@ body {
   background-position: center center;
   width: 150px;
   height: 150px;
-  border-radius: 100px;
+  border-radius: 50%;
   align-self: center;
   margin: 25px 0 0 0;
 }
@@ -68,7 +72,7 @@ body {
   border-radius: 0 8px 8px 0;
   color: #161e27;
   padding: 20px 35px 0;
-  background: #faf5f1;
+  background: #f5f7fa;
 }
 .cv_header-profession {
   font-size: 30px;
@@ -129,9 +133,7 @@ body {
 .cv_rs-logo {
   width: 130px;
 }
-.cv_footer-github {
-  /* display: flex; */
-}
+
 .cv_footer-link {
   display: flex;
   flex-direction: column;
@@ -152,7 +154,8 @@ body {
 .cv_footer-date {
   text-align: center;
   margin-top: 35px;
-  margin-bottom: 0;
+  margin-bottom: 5px;
+  font-size: 14px;
 }
 
 /* Visually hidden */
